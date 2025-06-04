@@ -1,11 +1,11 @@
 # cfRNA_MECFS
 
 This repository contains the analysis code for the manuscript:
-**"Circulating cell-free RNA signatures towards the characterization and diagnosis of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)"**
+**"Circulating cell-free RNA signatures for the characterization and diagnosis of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)"**
 by Gardella et al, Cornell University
 
 ## Summary
-This projects investigates the utility of circulating cell-free RNA (cfRNA) to advance biomarker discovery and uncover disease mechanisms for ME/CFS.
+This projects investigates the utility of circulating cell-free RNA (cfRNA) to advance biomarker discovery and uncover disease mechanisms of ME/CFS.
 
 Complete RNA sequencing data have been deposited at GEO and are publicly available as of the date of publication.
 
